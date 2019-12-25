@@ -9,7 +9,8 @@ You can install ExifTool on Ubuntu using the apt utility.
 ### From Source
 
 You can compile and install ExifTool from the source on any Linux distro (including CentOS)
-[!IMPORTANT] Source: https://exiftool.org/ and latest version "Image-ExifTool-##.##.tar.gz" - `(let's: folder.tar.gz)`
+
+__[!IMPORTANT]__ Source: https://exiftool.org/ and latest version "Image-ExifTool-##.##.tar.gz" - `(let's: folder.tar.gz)`
 
 `$ wget -c folder.tar.gz`
 
@@ -30,5 +31,5 @@ You can run ExifTool by running ./exiftool in the ExifTool directory or proceed 
 
 
 ###### Sources: 
-1. https://linoxide.com/linux-how-to/install-use-exiftool-linux-ubuntu-centos/ 
-2. https://andreyex.ru/operacionnaya-sistema-linux/kak-ustanovit-i-ispolzovat-exiftool-na-linux 
+1. :uk: https://linoxide.com/linux-how-to/install-use-exiftool-linux-ubuntu-centos/ 
+2. :ru: https://andreyex.ru/operacionnaya-sistema-linux/kak-ustanovit-i-ispolzovat-exiftool-na-linux 
